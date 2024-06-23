@@ -1,7 +1,4 @@
 # Realtime-Drowsiness-Detection-with-yawn-and-Alart-system
-Here's a GitHub README for your drowsiness and yawn detection project:
-# Drowsiness and Yawn Detection
-
 This project implements a real-time drowsiness and yawn detection system using Python, OpenCV, and dlib. The system can alert the user when it detects signs of drowsiness or yawning.
 
 ## Features
