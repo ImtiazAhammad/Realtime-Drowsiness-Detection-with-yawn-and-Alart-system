@@ -6,7 +6,7 @@ This project implements a real-time drowsiness and yawn detection system using P
 - Real-time detection of drowsiness based on the Eye Aspect Ratio (EAR).
 - Real-time detection of yawning based on the distance between the upper and lower lips.
 - Audio alerts for both drowsiness and yawning.
-- Option to use different webcam indices.
+- Option to use different webcam indices. 
 
 ## Requirements
 
